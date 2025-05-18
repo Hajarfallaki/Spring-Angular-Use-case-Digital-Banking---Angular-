@@ -14,16 +14,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have the 'digital-banking-web' title`, () => {
+  it(`should have the 'ebanking-web' title`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('digital-banking-web');
+    expect(app.title).toEqual('ebanking-web');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement as HTMLElement;
-    expect(compiled.querySelector('h1')?.textContent).toContain('Hello, digital-banking-web');
+    expect(compiled.querySelector('h1')?.textContent).toContain('Hello, ebanking-web');
   });
 });
