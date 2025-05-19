@@ -71,3 +71,25 @@ Hajar Elfallaki-Idrissi
 
 🔗 Profil GitHub
 
+
+## 📄 Aperçu de l’application
+
+![Capture d'écran 2025-05-18 141228](https://github.com/user-attachments/assets/b0856c80-0c24-48bc-8e1d-f55480c4fd2f)
+
+![Capture d'écran 2025-05-18 140436](https://github.com/user-attachments/assets/58545537-c721-48f8-a0f7-e8505894047a)
+
+![Capture d'écran 2025-05-18 140436](https://github.com/user-attachments/assets/20de3ad7-35f1-424e-bf71-4c683653bba9)
+
+![Capture d'écran 2025-05-18 141051](https://github.com/user-attachments/assets/9f21cd9d-38bb-45f6-b81d-63d9ca2d39f5)
+
+![Capture d'écran 2025-05-19 054219](https://github.com/user-attachments/assets/dbf4d39e-a9dc-47cf-a016-2b92cbefe420)
+
+![Capture d'écran 2025-05-19 054226](https://github.com/user-attachments/assets/bd61fc72-0dba-4268-9791-88d45e7e0372)
+
+![Capture d'écran 2025-05-18 141831](https://github.com/user-attachments/assets/27a942a1-c27c-42c6-9ae4-8325663898c3)
+
+![Capture d'écran 2025-05-18 141653](https://github.com/user-attachments/assets/d35f7395-4f1f-49ae-8925-b5d1dd3bafef)
+
+![Capture d'écran 2025-05-18 232423](https://github.com/user-attachments/assets/34dfe510-54a5-4e71-a249-a95f1074c9e2)
+
+![Capture d'écran 2025-05-18 232416](https://github.com/user-attachments/assets/e22baee4-3bf0-4e6d-af09-293747007836)
